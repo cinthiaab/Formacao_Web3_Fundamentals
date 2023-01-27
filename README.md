@@ -13,7 +13,7 @@
     - [x] Curso: Token Fungível
     - [ ] Desafio de projeto: Criando o Seu Primeiro Token do Zero
     - [x] Curso: Os Famosos NFTs
-    - [ ] Desafio de projeto: Criando um NFT na Prática
+    - [x] Desafio de projeto: Criando um NFT na Prática
     - [x] Materiais Complementares - Blockchain e Tokens
 - [ ] Web3 e Descentralização
     - [x] Curso: Decentralized Autonomous Organizations (DAO)
@@ -24,4 +24,17 @@
     - [ ] Introdução ao Metaverso
     - [ ] Conhecendo o Mercado e Oportunidades Web3
     - [ ] Materiais Complementares: Metaverso e Mercado Web3
+
+---
+
+## Desafios de Projeto
+
+### Criando um NFT na Prática
+
+**Plataforma:** OpenSea
+
+**Blockchain:** Polygon
+
+**Link:** https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/20856961824564524226722945565789884318263252235296755847564717079462554894337/
+
 
