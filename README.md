@@ -37,6 +37,8 @@
 
 **Plataforma:** Etherscan
 
+**IDE:** Remix -Ethereum IDE
+
 **Link:** https://goerli.etherscan.io/token/0x2e8c09722a28d2f36119b24b048d7b110a0b505f?a=0x2E1c9F3Ed7E0daC8dF54aC90cAfA18c89f28d034
 
 ### ✅ Criando um NFT na Prática
@@ -47,4 +49,4 @@
 
 **Link:** https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/20856961824564524226722945565789884318263252235296755847564717079462554894337/
 
-
+### ✅ Criando uma DAO
